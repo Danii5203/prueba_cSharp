@@ -16,3 +16,6 @@ Console.WriteLine("La resta de "+num1+" - "+num2+" = "+resultado2);
 
 int resultado3 = Convert.ToInt32(num1)*Convert.ToInt32(num2);
 Console.WriteLine("El producto de "+num1+" * "+num2+" = "+resultado3);
+
+int resultado4 = Convert.ToInt32(num1)/Convert.ToInt32(num2);
+Console.WriteLine("El cociente de "+num1+" / "+num2+" = "+resultado4);
